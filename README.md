@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/adilmadhani/stats-preview-card-component-main)
+- [Solution URL](https://www.frontendmentor.io/solutions/mobile-first-stats-preview-component-using-bem-8kzSCPgrr)
 - [Live Site URL](https://gallant-meninsky-814da0.netlify.app/)
 
 ## My process
