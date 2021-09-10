@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/order-summary-component-using-flexbox-1uM_yHabO)
-- [Live Site URL](https://jolly-panini-675e73.netlify.app/)
+- [Solution URL](https://github.com/adilmadhani/stats-preview-card-component-main)
+- [Live Site URL](https://gallant-meninsky-814da0.netlify.app/)
 
 ## My process
 
@@ -48,5 +48,5 @@ I want to continue learning and using the BEM method of CSS to write proper and 
 
 ## Author
 
-- Website - [Add your name here](https://adilmadhani.dev)
+- Website - [Adil Madhani](https://adilmadhani.dev)
 
